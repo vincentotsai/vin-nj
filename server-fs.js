@@ -12,4 +12,4 @@ http.createServer(function(req, res) {
   })
 }).listen(8881)
 
-console.log(`listen at localhost:8881`)
+console.log(`listen at http://localhost:8881`)
